@@ -47,8 +47,7 @@
 		<?php
 			foreach($dati as $rindas){
 				//print_r($rindas);
-				//echo "<br>";ffff
-				//fdasf
+				//echo "<br>";
 		?>
 		<tr>
 		<?php
